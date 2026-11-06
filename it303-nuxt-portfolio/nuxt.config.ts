@@ -1,7 +1,8 @@
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'Jetroh Salazar | Web Designer'
+      title: 'Jetroh Salazar | Web Designerr'
     }
   }
 })
+
