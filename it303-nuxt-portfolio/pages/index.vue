@@ -65,8 +65,8 @@ const skills = [
         <h2>Learning. Building. Improving.</h2>
 
         <p class="section-description">
-          I'm an IT student from the Philippines interested in web development.
-          I enjoy creating websites and improving my skills through hands-on projects.
+          I'm Jetroh Salazar, an IT student passionate about creating websites. 
+          I believe in continuous learning, experimenting with ideas, and becoming better with every project.
         </p>
       </div>
     </section>
