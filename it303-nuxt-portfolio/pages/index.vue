@@ -22,11 +22,11 @@ const projects = [
 ]
 
 const skills = [
-  'HTML & CSS',
-  'JavaScript',
-  'Vue.js',
-  'Nuxt 3',
-  'Git & GitHub'
+  'HTML',
+  'CSS',
+  'UI Design',
+  'Figma',
+  'UX Design'
 ]
 </script>
 
@@ -35,7 +35,7 @@ const skills = [
     <!-- Home -->
     <section class="hero section" id="home">
       <div class="container">
-        <p class="eyebrow">IT STUDENT & Web Designer</p>
+        <p class="eyebrow">IT STUDENT & WEB DESIGNER</p>
 
         <h1>
           Hello, I'm <span>Jetroh Salazar</span>
@@ -91,7 +91,7 @@ const skills = [
     <section class="section" id="skills">
       <div class="container">
         <p class="eyebrow">MY SKILLS</p>
-        <h2 class="section-title">Technologies I use</h2>
+        <h2 class="section-title">Design Skills I use</h2>
 
         <div class="skills-grid">
           <span
@@ -120,7 +120,7 @@ const skills = [
   rel="noopener noreferrer"
   class="contact-btn"
 >
-  Contact Me
+  Contact Me↗
 </a>
       </div>
     </section>
