@@ -4,7 +4,7 @@
     <div class="sidebar-profile">
       <div class="profile-avatar">JS</div>
       <h3>Jetroh Salazar</h3>
-      <p>Web Developer</p>
+      <p>Web Designer</p>
     </div>
 
     <nav class="sidebar-nav">
