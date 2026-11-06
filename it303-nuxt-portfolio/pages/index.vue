@@ -10,7 +10,7 @@ const projects = [
   {
     title: 'IT303 Course Project',
     description: 'A web project created to apply what I learned in class.',
-    stack: ['JavaScript', 'Nuxt 3'],
+    stack: ['Git & GitHub', 'Nuxt 3'],
     link: ''
   },
   {
