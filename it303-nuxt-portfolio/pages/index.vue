@@ -2,7 +2,7 @@
 <script setup lang="ts">
 const projects = [
   {
-    title: 'Personal Portfolio',
+    title: 'Jetroh Salazar',
     description: 'A personal website built to present my profile and development skills.',
     stack: ['Nuxt 3', 'Vue', 'CSS'],
     link: ''
