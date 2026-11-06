@@ -2,22 +2,22 @@
 <script setup lang="ts">
 const projects = [
   {
-    title: 'Jetroh Salazar',
-    description: 'A personal website built to present my profile and development skills.',
-    stack: ['Nuxt 3', 'Vue', 'CSS'],
-    link: ''
+    title: 'Personal Portfolio',
+    description: 'My personal website.',
+    stack: ['HTML', 'Vue', 'CSS'],
+    link: 'https://jetroh-salazar-portfolio.onrender.com/'
   },
   {
-    title: 'IT303 Course Project',
-    description: 'A web project created to apply what I learned in class.',
-    stack: ['Git & GitHub', 'Nuxt 3'],
-    link: ''
+    title: 'Simple Landing Page',
+    description: 'A clean and simple webpage.',
+    stack: ['HTML', 'CSS'],
+    link: 'https://simple-landing-page-jiro.netlify.app/'
   },
   {
-    title: 'Student Web Application',
-    description: 'A simple application focused on usability and responsive design.',
-    stack: ['HTML', 'CSS', 'Vue'],
-    link: ''
+    title: 'Login Page Design',
+    description: 'A basic login page with a simple layout.',
+    stack: ['Figma', 'UI Design'],
+    link: 'https://dribbble.com/'
   }
 ]
 
@@ -35,14 +35,14 @@ const skills = [
     <!-- Home -->
     <section class="hero section" id="home">
       <div class="container">
-        <p class="eyebrow">IT STUDENT & ASPIRING DEVELOPER</p>
+        <p class="eyebrow">IT STUDENT & Web Designer</p>
 
         <h1>
-          Hello, I'm <span>Jetroh Salazar.</span>
+          Hello, I'm <span>Jetroh Salazar</span>
         </h1>
 
         <p class="hero-copy">
-          I create simple and responsive websites while learning modern web development.
+          I'm a web designer who creates clean, modern, and responsive website designs with a focus on user experience and visual creativity.
         </p>
 
         <div class="hero-actions">
@@ -65,7 +65,7 @@ const skills = [
         <h2>Learning. Building. Improving.</h2>
 
         <p class="section-description">
-          I'm Jetroh Salazar, an IT student passionate about creating websites. 
+          an IT student passionate about creating websites. 
           I believe in continuous learning, experimenting with ideas, and becoming better with every project.
         </p>
       </div>
@@ -116,7 +116,7 @@ const skills = [
 
         <a
           class="contact-link"
-          href="mailto:your.email@example.com"
+          href="jetroh22@gmail.com"
         >
           Contact Me ↗
         </a>
