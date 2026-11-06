@@ -115,11 +115,12 @@ const skills = [
         </p>
 
         <a
-          class="contact-link"
-          href="mailto:jetroh22@gmail.com"
-        >
-          Contact Me ↗
-        </a>
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=jetroh22@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Contact Me
+</a>
       </div>
     </section>
   </main>
