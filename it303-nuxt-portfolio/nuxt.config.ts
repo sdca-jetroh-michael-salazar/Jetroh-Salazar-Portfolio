@@ -4,11 +4,11 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
   app: {
     head: {
-      title: 'My Developer Portfolio',
+      title: 'Jetroh Salazar | Web Designer',
       meta: [
         {
           name: 'description',
-          content: 'A personal web developer portfolio.'
+          content: 'A personal web designer portfolio.'
         }
       ]
     }
