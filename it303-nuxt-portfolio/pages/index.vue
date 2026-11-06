@@ -62,7 +62,7 @@ const skills = [
       <div class="container">
         <p class="eyebrow">ABOUT ME</p>
 
-        <h2>Learning. Building. Improving.</h2>
+        <h2>Learning. Designing . Improving.</h2>
 
         <p class="section-description">
           an IT student passionate about creating websites. 
@@ -116,7 +116,7 @@ const skills = [
 
         <a
           class="contact-link"
-          href="jetroh22@gmail.com"
+          href="mailto:jetroh22@gmail.com"
         >
           Contact Me ↗
         </a>
