@@ -114,10 +114,11 @@ const skills = [
           Feel free to reach out for projects or learning opportunities.
         </p>
 
-        <a
-  href="https://mail.google.com/mail/?view=cm&fs=1&to=jetroh22@gmail.com"
+       <a
+  href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=jetroh22@gmail.com"
   target="_blank"
   rel="noopener noreferrer"
+  class="contact-btn"
 >
   Contact Me
 </a>
