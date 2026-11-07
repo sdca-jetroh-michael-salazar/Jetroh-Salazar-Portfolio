@@ -1,6 +1,6 @@
-
 <template>
   <header class="navbar">
+    <!-- Click the name to return to homepage -->
     <NuxtLink class="brand" to="/">
       Jetroh S.
     </NuxtLink>
